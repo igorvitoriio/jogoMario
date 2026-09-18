@@ -1,4 +1,18 @@
-# jogoMario
+# Jogo Mario
+
+## Descrição
+Projeto do jogo Mario desenvolvido para a disciplina.
+
+## Tecnologias
+- HTML
+- CSS
+- JavaScript
+
+## Instalação
+
+```bash
+cd frontend
+npm install
 
 
 ## Integrantes
